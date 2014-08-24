@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'gothic'
+
+window = Gothic::GameWindow.new
+window.show

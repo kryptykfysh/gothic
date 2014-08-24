@@ -1,5 +1,2 @@
-require 'gothic/version'
-
-module Gothic
-  # Your code goes here...
-end
+require_relative './gothic/version'
+require_relative './gothic/game_window'
